@@ -12,11 +12,11 @@
 
 > 闲鱼卖家的画风是这样的：
 
-![01](./images/01.png)
-![02](./images/02.png)
-![03](./images/03.png)
+![01](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/01.png)
+![02](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/02.png)
+![03](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/03.png)
 
-此时我早立刻将最爱的 VSCode 打入冷宫，赶紧问同事 W 要了卖家的闲鱼 ID，津津有味的翻了起来。面对 3600 的 MacBook Pro， 2000 的三星 Note 9， 3200 的 XS Max，我也曾有过一丝疑惑，感觉就像是邻家美女，突然就闯入了我家门口，还是深夜的那种。但我的同事 W ，坚定的和我说，已经和卖家聊了半天了，卖家准备去美国了，着急清理手上的东西，而且可以当面交易。并且，她已经在闲鱼上交易了 11 单，应该是比较可靠的。
+我立刻将最爱的 VSCode 打入冷宫，赶紧问同事 W 要了卖家的闲鱼 ID，津津有味的翻了起来。面对 3600 的 MacBook Pro， 2000 的三星 Note 9， 3200 的 XS Max，我也曾有过一丝疑惑，感觉就像是邻家美女，突然就闯入了我家门口，还是深夜的那种。但同事 W ，坚定的和我说，已经和卖家聊了半天了，卖家准备去美国了，着急清理手上的东西，而且可以当面交易。并且，她已经在闲鱼上交易了 11 单，应该是比较可靠的。
 
 此时我真的以为，这就是命运的安排。于是当即和同事 W 敲定，收一个 XS Max。我的另外几个同事，L, H，Z, Y 也都纷纷也凑过来，准备直接帮卖家清空库存。但是，我们又不得不面临一个尴尬的问题，我们在出差啊，不在北京。
 
@@ -24,16 +24,16 @@
 
 > 让大家看看我的爱妃:
 
-![04](./images/04.png)
-![05](./images/05.png)
-![06](./images/06.png)
-![07](./images/07.png)
+![04](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/04.png)
+![05](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/05.png)
+![06](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/06.png)
+![07](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/07.png)
 
 此时的卖家，已经完全取得我们的信任了。开启了属于她的舞台，她和同事 W 说，东西比较抢手，让我们先给其中一个付款。不用多哟，一个就行。一贯抠搜的我，竟然二话不说，当即在闲鱼上拍下了 MAX，准备付款。准备付钱时，发现这东西的运费竟然是 999 元，于是我赶紧让同事 W 联系卖家改价格。
 
 卖家继续着她的表演，先假装和我们确认了收货信息，期间还和 W 解释，之所以设置这么高的价格，就是怕有手机贩子乱拍，她只想卖给个人。持续了足足两分钟时间，卖家发了一个链接给 W，说价格改好了，可以付款了。于是 W 直接把链接转给了我。就是下面这个链接：
 
-![08](./images/08.png)
+![08](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/08.png)
 
 [诈骗链接](http://2xianyu.qfevj.cn//xy/index.php?uid=9737&zt=1)
 
@@ -41,10 +41,10 @@
 
 > 整个诈骗网站的流程是这样的:
 
-![09](./images/09.png)
-![10](./images/10.png)
-![11](./images/11.png)
-![12](./images/12.png)
+![09](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/09.png)
+![10](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/10.png)
+![11](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/11.png)
+![12](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/12.png)
 
 在付款中还出现了小插曲，由于过于激动，输错两次支付密码，差点没能支付成功，现在想想，真实完美躲过最后一道防线。当支付宝提示我支付成功时，我已经在想象夜深人静时，将 3000 块钱的 XS Max 拥入怀中了。但是紧接着弹出的付款成功页面，却像宏颜祸水一样，立刻在我脑海中荡漾起，What's your problem?
 
@@ -52,11 +52,11 @@
 
 > 让你们感受下支付宝的设计:
 
-![13](./images/13.png)
+![13](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/13.png)
 
 我立刻让同事 W 联系了骗子，问为什么是付款到了畅游的平台，而且竟然还是游戏币。卖家信誓旦旦的和同事 W 说，她就是这个公司的，付款没有问题。订单信息已经看到了，但是付款到她口袋会有一定的延时，让我们等一下。
 
-此时的我，其实还抱有一丝幻想的。但是我的同事 L, H，Z 们，却立刻通过宏颜获水的网站，查出了好多类似的经历，硬生生将我和梦中的爱妃拆散。现在的我，竟然开始有点喜欢上这个熊爪了，看着竟还有那么一丝可爱。
+此时的我，其实还抱有一丝幻想的。但是我的同事 L, H，Z 们，却立刻通过搜索，查出了好多类似的经历，硬生生将我和梦中的爱妃拆散。现在的我，竟然开始有点喜欢上这个熊爪了，看着竟还有那么一丝可爱。
 
 好了，被啪啪打回现实的我，现在想的是怎么立刻挽回损失。第一个想起的就是马爸爸，立刻登陆支付宝，通过客服，想要冻结这笔付款。What the Fxxk？支付宝上竟然写着已经产生的资金损失不能被追回，请直接拨打 110。我刚付的款，不能冻结一下吗？只是冻结啊，没让你退款啊，亲。好了，一顿骚操作以后，我终于联系上了客服的。。。机器人，然后提交了一些也不知道有没有人看的表单，支付宝维权路径到此结束。
 
@@ -64,13 +64,15 @@
 
 我配合着她的表演，在一片祥和的气氛中，她又给了我一个链接，需要我再支付一个 0 元退款单。和我保证操作完了，系统就会自动给我退款。我一个大龄码农，会被你骗两次？哼，我还是乖乖点了链接，看到的一个和闲鱼长的一样的 0 元支付页面，点击支付后，又跳到可爱的支付宝，这回还是让再我付 3000。我就这样被骗子按在地上，准备第二次摩擦。
 
-![14](./images/14.png)
-![15](./images/15.png)
+![14](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/14.png)
+![15](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/15.png)
 
 我已经彻底失去了耐心，只想一心弄死这个骗子。但是我突然想起，还是 3000 块钱更重要一些。我看着那张订单，猛然想到，不是还有畅游吗？钱是给畅游的啊。于是我赶紧联系了畅游的客服，寄希望畅游可以先冻结这笔订单。畅游客服直接和我说，除非有对方 ID，否则她没有权限操作。What the Fxxk？(这是第三个次了) 我给了你支付宝的所有订单信息，你竟然告诉我你操作不了？要对方 ID 是什么鬼，骗子能告诉我她的畅游 ID ？如果说支付宝不能冻结是业务模型和体量的问题，那么畅游时代，不管你是有意还是无意，你一定会为自己的纵容付出代价。
 
 > 这个是支付宝的订单，支付宝和畅游都和我说无能为力？呵呵
 
-![16](./images/16.png)
+![16](https://raw.githubusercontent.com/putianxi/phone-fraud/master/img/16.png)
 
-好了，事情到这里本该结束了，为了 3000 块钱来回折腾，我也没这个精力了。看着骗子还在继续她的表演，我直接退出了 QQ。此时办公室就只剩下我和同事 W，Y 了，我准备把手上的证据整理一下，交给警察叔叔，然后就去安心的写代码了。等等，我可是个会编代码的男人啊，难道就这么算了？看着电脑里尘封已久的 Kali Linux，我开始思考起了人生
+好了，事情到这里本该结束了，为了 3000 块钱来回折腾，我也没这个精力了。看着骗子还在继续她的表演，我直接退出了 QQ。此时办公室就只剩下我和同事 W，Y 了，我准备把手上的证据整理一下，交给警察叔叔，然后就去安心的写代码了。等等，我可是个会编代码的男人啊，难道就这么算了？看着电脑里尘封已久的 Kali Linux，我开始思考起了人生。
+
+未完待续...
